@@ -1,0 +1,37 @@
+{
+    "data": {
+        "store"     : "PH Nails",
+        "slug"      : "Ph-nails",
+        "phone"     : "(479) 443-9657",
+        "email"     : "huonglengo16872@gmail.com",
+        "address"   : "3867 Mall Ave, Fayetteville, Arkansas 72703",
+        "state"     : "Arkansas 72703",
+        "ward"      : "Fayetteville",
+        "time_1"    : "Mon - Sat: 09:30 AM - 07:00 PM",
+        "time_2"    : "Sun: 10:00 AM - 05:00 PM"
+        
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/phnailsfayetteville",
+        "instagram" :   "https://www.instagram.com/phnailsarkansas",
+        "google"    :   "https://goo.gl/maps/ViZKgzrSxrbwYMVQ8",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NTI2MTd8cGhuYWlsczM4Njd8QVJfMDgzMzF8MTMxNGFlNTQ2ZjZmZTA3YmE1NTNiZjkxZjNiZTIxN2Y=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12891.482753178409!2d-94.15166!3d36.121008!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96bf5dcd2de83%3A0xe914553c6d9cdfc1!2sP%20H%20Nails!5e0!3m2!1sen!2s!4v1669953058334!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#971319",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "img/",
+    "domain":       "http://127.0.0.1:5500/"
+}
